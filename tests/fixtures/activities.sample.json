@@ -1,0 +1,56 @@
+{
+  "result": {
+    "data": [
+      {
+        "name": "act_5001",
+        "ticket": "tickets_1001",
+        "direction": "in",
+        "time": "2026-06-10 06:40:00",
+        "text": "Dobrý deň, objednávku 80012345 som zaplatila pred 10 dňami a stále nič neprišlo. Toto je nehorázne, chcem okamžite vedieť kde je môj balík alebo vráťte peniaze!"
+      },
+      {
+        "name": "act_5000",
+        "ticket": "tickets_1001",
+        "direction": "out",
+        "time": "2026-06-09 08:20:00",
+        "text": "Dobrý deň, ďakujeme za správu, preveríme stav zásielky."
+      },
+      {
+        "name": "act_5002",
+        "ticket": "tickets_1002",
+        "direction": "in",
+        "time": "2026-06-10 05:30:00",
+        "text": "Hello, I tried to pay for order 80012999 three times. The page showed an error each time but my bank shows three charges of 129 EUR. Please refund the duplicates urgently."
+      },
+      {
+        "name": "act_5003",
+        "ticket": "tickets_1003",
+        "direction": "in",
+        "time": "2026-06-10 07:05:00",
+        "text": "Hi, do you have the blue winter jacket in size M in stock, and what is the price? Thanks!"
+      },
+      {
+        "name": "act_5004",
+        "ticket": "tickets_1004",
+        "direction": "in",
+        "time": "2026-06-10 07:20:00",
+        "text": "I am currently out of office and will reply when I return. This is an automatic message."
+      },
+      {
+        "name": "act_5006",
+        "ticket": "tickets_1005",
+        "direction": "out",
+        "time": "2026-06-09 09:15:00",
+        "text": "Dobrý deň, pošleme Vám návratový formulár."
+      },
+      {
+        "name": "act_5005",
+        "ticket": "tickets_1005",
+        "direction": "in",
+        "time": "2026-06-08 14:00:00",
+        "text": "Dobrý deň, chcel by som vrátiť tričko, veľkosť mi nesedí. Ako mám postupovať?"
+      }
+    ],
+    "total": 7
+  }
+}

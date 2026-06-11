@@ -1,0 +1,11 @@
+{
+  "result": {
+    "data": [
+      { "name": "contacts_anna", "title": "Anna Nováková", "email": "anna.novakova@example.com" },
+      { "name": "contacts_petr", "title": "Petr Svoboda", "email": "petr.svoboda@example.com" },
+      { "name": "contacts_jana", "title": "Jana Horváthová", "email": "jana.horvathova@example.com" },
+      { "name": "contacts_guest", "title": "Unknown Sender", "email": "random.shopper@gmail.test" }
+    ],
+    "total": 4
+  }
+}

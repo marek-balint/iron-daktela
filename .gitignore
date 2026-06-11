@@ -1,0 +1,12 @@
+# Secrets — never commit (docs/06-security.md §3)
+.env
+.env.*
+!.env.example
+
+# Dev artefacts
+/vendor/
+/var/
+*.log
+
+# OS
+.DS_Store

@@ -1,0 +1,5 @@
+/* Daktela tickets view — minimal styling. */
+.panel .badge { margin-left: 6px; text-transform: uppercase; }
+table.table td small { color: #6c757d; }
+table.table tr.warning { background: #fcf8e3; }
+.form-inline input[type="number"] { display: inline-block; }

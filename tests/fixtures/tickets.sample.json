@@ -1,0 +1,47 @@
+{
+  "result": {
+    "data": [
+      {
+        "name": "tickets_1001",
+        "title": "Kde je moja objednávka?? Už 10 dní mešká!",
+        "stage": "WAIT",
+        "contact": "contacts_anna",
+        "created": "2026-06-09 08:12:00",
+        "edited": "2026-06-10 06:40:00"
+      },
+      {
+        "name": "tickets_1002",
+        "title": "Payment failed but my card was charged",
+        "stage": "OPEN",
+        "contact": "contacts_petr",
+        "created": "2026-06-10 05:30:00",
+        "edited": "2026-06-10 05:30:00"
+      },
+      {
+        "name": "tickets_1003",
+        "title": "Is the blue winter jacket available in size M?",
+        "stage": "OPEN",
+        "contact": "contacts_guest",
+        "created": "2026-06-10 07:05:00",
+        "edited": "2026-06-10 07:05:00"
+      },
+      {
+        "name": "tickets_1004",
+        "title": "Auto-reply: Out of office",
+        "stage": "OPEN",
+        "contact": "contacts_guest",
+        "created": "2026-06-10 07:20:00",
+        "edited": "2026-06-10 07:20:00"
+      },
+      {
+        "name": "tickets_1005",
+        "title": "Chcem vrátiť tovar - nesedí veľkosť",
+        "stage": "OPEN",
+        "contact": "contacts_jana",
+        "created": "2026-06-08 14:00:00",
+        "edited": "2026-06-09 09:15:00"
+      }
+    ],
+    "total": 5
+  }
+}
