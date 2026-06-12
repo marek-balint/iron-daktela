@@ -86,7 +86,6 @@ See `docs/05-prioritization.md` for the exact scoring model.
 | [docs/03-daktela-integration.md](docs/03-daktela-integration.md) | Daktela API: auth, ticket pull, sync strategy |
 | [docs/04-ai-classification.md](docs/04-ai-classification.md) | Claude prompt, output schema, categories |
 | [docs/05-prioritization.md](docs/05-prioritization.md) | The priority scoring model (the heart of it) + manual score override |
-| [docs/06-dev-setup.md](docs/06-dev-setup.md) | Install PrestaShop 8.1 locally + demo data |
 | [docs/06-security.md](docs/06-security.md) | Security: SQL injection, XSS, secrets, CSRF, prompt injection, PII |
 
 ## Open questions (to resolve before coding)
